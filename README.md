@@ -1,4 +1,4 @@
-# agile
+# Agile
 
 Come forth, distinguished members of the discerning society, and witness the grand gathering of group Belgrade's erudite minds, converging in the realm of a Git repository.
 
